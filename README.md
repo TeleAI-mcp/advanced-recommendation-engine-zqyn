@@ -1,2 +1,3 @@
-# advanced-recommendation-engine-zqyn
-AI-powered recommendation system for modern development workflows
+# Advanced Recommendation Engine Zqyn
+
+A AI-powered recommendation system for modern development workflows.
